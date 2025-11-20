@@ -29,3 +29,5 @@ Clonar el repo:
 ```bash
 git clone https://github.com/raulfcarbone/plataformasentidos.git
 cd plataformasentidos
+
+npm install
