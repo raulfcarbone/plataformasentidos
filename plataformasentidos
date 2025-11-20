@@ -1,0 +1,29 @@
+plataformasentidos/
+├─ app/
+│  ├─ api/
+│  │  ├─ health/
+│  │  │  └─ route.js
+│  │  └─ products/
+│  │     └─ route.js
+│  ├─ dashboard/
+│  │  └─ page.js
+│  ├─ tienda/
+│  │  └─ page.js
+│  ├─ layout.js
+│  └─ page.js
+├─ content/
+│  └─ .gitkeep
+├─ database/
+│  └─ schema.sql
+├─ docs/
+│  └─ architecture.md
+├─ lib/
+│  ├─ config.js
+│  └─ supabaseClient.js
+├─ scripts/
+│  └─ README.md
+├─ .env.example
+├─ next.config.mjs
+├─ package.json
+├─ README.md
+└─ .gitignore
